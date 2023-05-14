@@ -1,0 +1,164 @@
+* {
+    margin: 0;
+    padding: 0;
+    font-family: 'Poppins', sans-serif;
+}
+
+#flex-property {
+    display: flex;
+    padding: 0px 70px;
+}
+
+.strong-man {}
+
+.top-text {
+    width: 40%;
+    margin-top: 80px;
+}
+
+.top-text h1 {
+    font-size: 45px;
+}
+
+.top-text h1 {
+    color: #565656;
+}
+
+.top-text p {
+    color: #8F8F8F;
+    margin-bottom: 40px;
+}
+
+.top-text h1 span {
+    color: #FB8B47;
+}
+
+.order-btn {
+    text-decoration: none;
+    padding: 15px 30px;
+    color: #fff;
+    background-image: linear-gradient(to right, #FB9149, #FD5131);
+    border-radius: 25px;
+}
+
+.top-image {
+    width: 50%;
+}
+
+.top-image img {
+    width: 100%;
+}
+
+/* About section  */
+
+.about-me {
+    background-color: #FEF3ED;
+    background-image: url(images/7.png);
+    background-repeat: no-repeat;
+    background-position: left top;
+}
+
+.about-img-section {
+    width: 50%;
+}
+
+.about-img-section img {
+    width: 50%;
+    margin-left: 120px;
+    margin-top: 50px;
+}
+
+.about-text-section {
+    width: 50%;
+    margin-top: 70px;
+}
+
+.about-text-section p {
+    margin-bottom: 95px;
+}
+
+.heading {
+    color: #6F6F6F;
+    font-weight: 900;
+    font-size: 38px;
+}
+
+.paragraph {
+    color: #18181F;
+    font-size: 21px;
+}
+
+/* Recipies section  */
+
+.my-racipies {
+    text-align: center;
+}
+
+.heading-recipie {
+    color: #6F6F6F;
+    font-weight: 900;
+    font-size: 38px;
+    margin: 35px;
+}
+
+.heading-paragraph {
+    color: #18181F;
+    font-size: 21px;
+    width: 45%;
+    margin: 30px auto;
+}
+
+
+.recipise-section {
+    display: flex;
+}
+
+.recipies {
+    width: 45%;
+    margin: 45px;
+    border-radius: 7px;
+    box-shadow: 0 0 5px black;
+}
+
+.recipies img {
+    width: 70%;
+    padding-top: 15px;
+}
+
+.recipies p {
+    padding: 30px;
+}
+
+
+.status {
+    display: flex;
+    justify-content: space-around;
+    width: 70%;
+    padding: 35px;
+    text-align: center;
+    border: 5px;
+    border-radius: 5px;
+    box-shadow: 0 0 10px black;
+    margin-left: 170px;
+    margin-bottom: 50px;
+}
+/* .footer{
+    background-color: black;
+    width: 100%;
+} */
+.end-section{
+    background-color: black;
+    text-align: center;
+    padding: 60px;
+    /* margin:0 70px; */
+}
+.end-section h1{
+    color: #5B5B5B;
+    margin: 30px;
+}
+.end-section span{
+    color: #FB984C;
+}
+.end-section p{
+    color: #7E95A5;
+}
